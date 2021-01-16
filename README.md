@@ -46,6 +46,6 @@ The data visualizations presented via Tableau indicate that a bike-sharing progr
 - A Gantt Bar to compare birth year (age) vs. gender (male, female, unknown) to gain an understanding of the population demographic.
 
 
-[link to dashboard](https://prod-useast-b.online.tableau.com/t/stacychandisingh/views/NYC_Citibike_Module_14_Challenge_Tableau/NumberofRides?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+[First link to dashboard](https://prod-useast-b.online.tableau.com/t/stacychandisingh/views/NYC_Citibike_Module_14_Challenge_Tableau/NumberofRides?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 
-[link to dashboard1](https://prod-useast-b.online.tableau.com/#/site/stacychandisingh/projects/22358)
+[Second link to dashboard](https://prod-useast-b.online.tableau.com/#/site/stacychandisingh/projects/22358)
